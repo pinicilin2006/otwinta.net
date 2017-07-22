@@ -121,6 +121,7 @@ function handleTweets(tweets) {
             success: function(data) {
                 $("#form_data").slideUp(500);
                 $("#ajax_result").html(data);
+                yaCounter45390867.reachGoal('request_add');
             }
         });
         return false;
