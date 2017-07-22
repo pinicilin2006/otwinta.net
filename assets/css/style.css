@@ -148,6 +148,7 @@ a:focus {
   margin-top: 0;
   margin-bottom: 20px;
   font-size: 60px;
+  color: rgb(20, 152, 20);
 }
 #home a { margin: 0 5px }
 #home h3 {
